@@ -1,0 +1,6 @@
+framework module Pods_RNSDK {
+  umbrella header "Pods-RNSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
