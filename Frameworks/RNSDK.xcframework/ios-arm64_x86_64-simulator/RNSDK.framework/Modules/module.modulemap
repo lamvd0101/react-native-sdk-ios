@@ -1,0 +1,11 @@
+framework module RNSDK {
+  umbrella header "RNSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module RNSDK.Swift {
+  header "RNSDK-Swift.h"
+  requires objc
+}
