@@ -1,0 +1,12 @@
+{
+  "name": "RNSDK",
+  "version": "1.1.0",
+  "description": "Description of RNSDK",
+  "author": "Liam Vuong",
+  "homepage": "https://github.com/lamvd0101/react-native-sdk-example#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lamvd0101/react-native-sdk-example.git"
+  }
+}
